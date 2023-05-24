@@ -138,12 +138,12 @@ void f_div(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_mod - function that computes the remainder of the division of the second
+* f_mod - the function that computes the remainder of the division of the second
 * top element of the stack by the top element of the stack
-* @head: double head pointer to the stack
-* @counter: line count
+* @head: a double head pointer to the stack
+* @counter: the line count
 *
-* Return: nothing
+* Return: nothing to return
 */
 void f_mod(stack_t **head, unsigned int counter)
 {

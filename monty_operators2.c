@@ -3,9 +3,9 @@
 /**
 * f_push - function that adds node to the stack
 * @head: double head pointer to the stack
-* @counter: line count
+* @counter: the line count
 *
-* Return: nothing
+* Return: there is nothing to return
 */
 void f_push(stack_t **head, unsigned int counter)
 {

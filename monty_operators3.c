@@ -25,9 +25,9 @@ void f_pop(stack_t **head, unsigned int counter)
 }
 
 /**
-* f_pint - function that prints the top of the stack
+* f_pint - there is the function that prints the top of the stack
 * @head: double head pointer to the stack
-* @counter: line count
+* @counter: the line count
 *
 * Return: nothing
 */
